@@ -1,0 +1,21 @@
+{
+	"name": "@av/nyaa",
+	"description": "nyaa manager",
+	"license": "MIT",
+	"version": "0.0.1",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite"
+	},
+	"dependencies": {
+		"@musakui/vueuse": "latest",
+		"vue": "latest"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "latest",
+		"unocss": "latest",
+		"vite": "latest"
+	}
+}
